@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AzadRane/texteditor-v1.0/static/css/main.a617e044.chunk.css",
+    "main.js": "/AzadRane/texteditor-v1.0/static/js/main.5426c265.chunk.js",
+    "main.js.map": "/AzadRane/texteditor-v1.0/static/js/main.5426c265.chunk.js.map",
+    "runtime-main.js": "/AzadRane/texteditor-v1.0/static/js/runtime-main.43e82ac2.js",
+    "runtime-main.js.map": "/AzadRane/texteditor-v1.0/static/js/runtime-main.43e82ac2.js.map",
+    "static/js/2.3d8be83b.chunk.js": "/AzadRane/texteditor-v1.0/static/js/2.3d8be83b.chunk.js",
+    "static/js/2.3d8be83b.chunk.js.map": "/AzadRane/texteditor-v1.0/static/js/2.3d8be83b.chunk.js.map",
+    "static/js/3.bf97f2cf.chunk.js": "/AzadRane/texteditor-v1.0/static/js/3.bf97f2cf.chunk.js",
+    "static/js/3.bf97f2cf.chunk.js.map": "/AzadRane/texteditor-v1.0/static/js/3.bf97f2cf.chunk.js.map",
+    "index.html": "/AzadRane/texteditor-v1.0/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/AzadRane/texteditor-v1.0/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3d8be83b.chunk.js.LICENSE.txt": "/AzadRane/texteditor-v1.0/static/js/2.3d8be83b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e82ac2.js",
+    "static/js/2.3d8be83b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5426c265.chunk.js"
+  ]
+}
